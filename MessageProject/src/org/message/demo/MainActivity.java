@@ -9,7 +9,7 @@ public class MainActivity extends Activity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);//加载文件...
+		setContentView(R.layout.activity_main);//加载文件...继续加载文件...
 	}
 
 	@Override
